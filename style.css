@@ -1,7 +1,7 @@
 #body
 {
     background-color: rgb(12, 1, 15);
-    background-image: url('images/stars_image.jpg');
+    background-image: url('stars_image.jpg');
 }
 
 #header,#planets
@@ -11,7 +11,7 @@
     color: rgb(65, 85, 154);
     border-radius: 5px;
     border: 2px solid rgb(19, 1, 1);
-    background-image: url('images/stars_image.jpg');
+    background-image: url('stars_image.jpg');
 }
 
 #heading_discription,#mercury_discription,#venus_discription,#earth_discription,#mars_discription,#jupyter_discription,#saturn_discription,#uranus_discription,#neptune_discription
@@ -20,7 +20,7 @@
     text-align: left;
     margin-left: 2%;
     margin-right: 2%;
-    background-image: url('images/stars_image.jpg');
+    background-image: url('stars_image.jpg');
 
 }
 
